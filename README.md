@@ -1,4 +1,4 @@
-# Hi, I'm Ivo Sá 👋
+# Hi, I'm Ivo Sá 
 
 Final-year Medical Informatics Engineering student at IPCA, with a background in Electronics, Automation and Control. Interested in Software Engineering, Data Engineering, Artificial Intelligence, Medical Technologies, and Industrial Automation.
 
