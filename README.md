@@ -2,7 +2,13 @@
 
 Final-year Medical Informatics Engineering student at IPCA, with a background in Electronics, Automation and Control.
 
-Interested in Software Engineering, Data Engineering, Medical Informatics, Artificial Intelligence and Industrial Automation.
+## Areas of Interest
+
+* Software Engineering
+* Data Engineering
+* Medical Informatics
+* Artificial Intelligence
+* Industrial Automation
 
 ## Current Work
 
@@ -15,4 +21,3 @@ Internal management platform currently under development for the I&M 3D ecosyste
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/ivo-sa-315561383
-* GitHub: https://github.com/bulletproof20
