@@ -10,10 +10,11 @@ Final-year Medical Informatics Engineering student at IPCA, with a background in
 * Artificial Intelligence
 * Industrial Automation
 
-## Current Work
+## Current Project
 
-### I&M Core (private)
+### I&M Core (project)
 
-Internal management platform currently under development for the I&M 3D ecosystem.
+Business management platform being developed to support budgeting, production, inventory, purchasing and project management processes within I&M 3D.
 
-**Current stack:** TypeScript · Node.js · Express.js · PostgreSQL · SQL · PL/pgSQL
+**Stack:** TypeScript · Node.js · Express.js · PostgreSQL · SQL · PL/pgSQL
+
